@@ -1,7 +1,7 @@
 --- #YAML:1.0
 name:               CGI-Struct-XS
-version:            1.01
-abstract:           Build structures from CGI data
+version:            1.02
+abstract:           Build structures from CGI data. Fast.
 author:
     - Dmitry Smal <mialinx@gmail.com>
 license:            bsd
