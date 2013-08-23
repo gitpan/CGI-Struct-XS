@@ -25,4 +25,5 @@ t/05-copies.t
 t/05-edges.t
 t/05-leak.t
 XS.xs
-META.yml                                 Module meta-data (added by MakeMaker)
+META.yml                                 Module YAML meta-data (added by MakeMaker)
+META.json                                Module JSON meta-data (added by MakeMaker)
